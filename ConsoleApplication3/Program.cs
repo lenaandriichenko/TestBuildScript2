@@ -10,7 +10,7 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World before the branch!");
+            Console.WriteLine("Hello World into the new test branch!");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
